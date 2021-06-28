@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Events App Repository](https://github.com/mpavletic/events-app)
